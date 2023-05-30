@@ -9,3 +9,5 @@ Semukelo Mathe, Simphiwe Nkwanyana
 ### 1. MongoDB utils
 
 ### 2. First API
+
+### 3. Create a new user
