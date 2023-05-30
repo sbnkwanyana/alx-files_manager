@@ -11,3 +11,5 @@ Semukelo Mathe, Simphiwe Nkwanyana
 ### 2. First API
 
 ### 3. Create a new user
+
+### 4. Authenticate a user
