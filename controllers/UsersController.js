@@ -19,6 +19,6 @@ export default class AppController {
             return
         }
         const result = await dbClient.client.db().collection('users').insertOne({ email: email, password: sha1(password) })
-        return res.status(201).json({ id: result.insertedId, email: email })
+        res.status(201).json({ id: result.insertedId, email: email })
     }
 }
